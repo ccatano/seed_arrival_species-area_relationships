@@ -1,0 +1,97 @@
+Site,Half,scale,area,source.diversity.trt,species.richness.trt
+Barn N,E,rich1m,1,Southern,Low
+Barn N,E,rich5m,5,Southern,Low
+Barn N,E,rich25m,25,Southern,Low
+Barn N,E,siteRich,2752,Southern,Low
+Barn N,W,rich1m,1,Southern,High
+Barn N,W,rich5m,5,Southern,High
+Barn N,W,rich25m,25,Southern,High
+Barn N,W,siteRich,2752,Southern,High
+Barn South,E,rich1m,1,High,Low
+Barn South,E,rich5m,5,High,Low
+Barn South,E,rich25m,25,High,Low
+Barn South,E,siteRich,1538,High,Low
+Barn South,W,rich1m,1,High,High
+Barn South,W,rich5m,5,High,High
+Barn South,W,rich25m,25,High,High
+Barn South,W,siteRich,1376,High,High
+Duck Lake,E,rich1m,1,Midwest,High
+Duck Lake,E,rich5m,5,Midwest,High
+Duck Lake,E,rich25m,25,Midwest,High
+Duck Lake,E,siteRich,4047,Midwest,High
+Duck Lake,W,rich1m,1,Midwest,Low
+Duck Lake,W,rich5m,5,Midwest,Low
+Duck Lake,W,rich25m,25,Midwest,Low
+Duck Lake,W,siteRich,1619,Midwest,Low
+Field Lab,E,rich1m,1,Local,High
+Field Lab,E,rich5m,5,Local,High
+Field Lab,E,rich25m,25,Local,High
+Field Lab,E,siteRich,5706,Local,High
+Field Lab,W,rich1m,1,Local,Low
+Field Lab,W,rich5m,5,Local,Low
+Field Lab,W,rich25m,25,Local,Low
+Field Lab,W,siteRich,5908,Local,Low
+No Till,N,rich1m,1,Southern,High
+No Till,N,rich5m,5,Southern,High
+No Till,N,rich25m,25,Southern,High
+No Till,N,siteRich,10927,Southern,High
+No Till,S,rich1m,1,Southern,Low
+No Till,S,rich5m,5,Southern,Low
+No Till,S,rich25m,25,Southern,Low
+No Till,S,siteRich,10643,Southern,Low
+Pothole,N,rich1m,1,High,High
+Pothole,N,rich5m,5,High,High
+Pothole,N,rich25m,25,High,High
+Pothole,N,siteRich,5180,High,High
+Pothole,S,rich1m,1,High,Low
+Pothole,S,rich5m,5,High,Low
+Pothole,S,rich25m,25,High,Low
+Pothole,S,siteRich,4452,High,Low
+Reed Canary,N,rich1m,1,High,High
+Reed Canary,N,rich5m,5,High,High
+Reed Canary,N,rich25m,25,High,High
+Reed Canary,N,siteRich,2428,High,High
+Reed Canary,S,rich1m,1,High,Low
+Reed Canary,S,rich5m,5,High,Low
+Reed Canary,S,rich25m,25,High,Low
+Reed Canary,S,siteRich,2428,High,Low
+Soil Pit,E,rich1m,1,Midwest,High
+Soil Pit,E,rich5m,5,Midwest,High
+Soil Pit,E,rich25m,25,Midwest,High
+Soil Pit,E,siteRich,2833,Midwest,High
+Soil Pit,W,rich1m,1,Midwest,Low
+Soil Pit,W,rich5m,5,Midwest,Low
+Soil Pit,W,rich25m,25,Midwest,Low
+Soil Pit,W,siteRich,4087,Midwest,Low
+Spruce Lodge,E,rich1m,1,High,Low
+Spruce Lodge,E,rich5m,5,High,Low
+Spruce Lodge,E,rich25m,25,High,Low
+Spruce Lodge,E,siteRich,2469,High,Low
+Spruce Lodge,W,rich1m,1,High,High
+Spruce Lodge,W,rich5m,5,High,High
+Spruce Lodge,W,rich25m,25,High,High
+Spruce Lodge,W,siteRich,2023,High,High
+Succession,E,rich1m,1,Local,High
+Succession,E,rich5m,5,Local,High
+Succession,E,rich25m,25,Local,High
+Succession,E,siteRich,2509,Local,High
+Succession,W,rich1m,1,Local,Low
+Succession,W,rich5m,5,Local,Low
+Succession,W,rich25m,25,Local,Low
+Succession,W,siteRich,2266,Local,Low
+Water Tower,N,rich1m,1,High,Low
+Water Tower,N,rich5m,5,High,Low
+Water Tower,N,rich25m,25,High,Low
+Water Tower,N,siteRich,890,High,Low
+Water Tower,S,rich1m,1,High,High
+Water Tower,S,rich5m,5,High,High
+Water Tower,S,rich25m,25,High,High
+Water Tower,S,siteRich,809,High,High
+Wetland,N,rich1m,1,High,High
+Wetland,N,rich5m,5,High,High
+Wetland,N,rich25m,25,High,High
+Wetland,N,siteRich,4856,High,High
+Wetland,S,rich1m,1,High,Low
+Wetland,S,rich5m,5,High,Low
+Wetland,S,rich25m,25,High,Low
+Wetland,S,siteRich,2833,High,Low
